@@ -5,3 +5,6 @@
 * [Mayonaise](mayo.md)
 
 ## Hot sauces
+
+## Hot dishes
+* [Lasagna](lasagna.md)
