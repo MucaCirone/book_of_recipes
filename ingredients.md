@@ -1,4 +1,0 @@
-# Ingredients
-
-* Potatoes
-* Salt
